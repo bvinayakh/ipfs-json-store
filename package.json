@@ -1,0 +1,23 @@
+{
+  "name": "ipfs-json-store",
+  "version": "1.0.0",
+  "description": "Store JSON in IPFS for decentralization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svinayak8k/ipfs-json-store.git"
+  },
+  "author": "Sree Vinayak Balasubramaniam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svinayak8k/ipfs-json-store/issues"
+  },
+  "homepage": "https://github.com/svinayak8k/ipfs-json-store#readme",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "request": "^2.88.2"
+  }
+}
